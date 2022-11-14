@@ -1,0 +1,29 @@
+table {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: blueviolet;
+  height: 500px;
+  width: 500px;
+  width: 40%;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+thead {
+  letter-spacing: 1px;
+  height: 80px;
+  width: 80px;
+}
+
+tbody {
+  letter-spacing: 1px;
+}
+
+th {
+  border: 2px solid black;
+}
+
+tfoot {
+  border: 2px solid black;
+  letter-spacing: 1px;
+  height: 50px;
+  width: 50px;
+}

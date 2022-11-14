@@ -1,0 +1,29 @@
+table {
+  width: 40%;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+tbody {
+  font-size: 80%;
+  font-style: italic;
+  letter-spacing: 1px;
+}
+th {
+  border: 1px solid black;
+}
+
+.linha-um {
+  text-align: left;
+}
+
+.linha-dois {
+  text-align: center;
+}
+
+.linha-tres {
+  text-align: left;
+}
+
+.tres {
+  text-align: center;
+}
