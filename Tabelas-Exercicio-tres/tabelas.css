@@ -1,0 +1,20 @@
+table {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+  margin: 80px;
+}
+
+thead {
+  letter-spacing: 2px;
+  height: 50px;
+  width: 50px;
+}
+tbody {
+  letter-spacing: 1px;
+}
+
+th {
+  border: 2px solid black;
+}
